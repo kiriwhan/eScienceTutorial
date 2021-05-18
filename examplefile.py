@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 
-print("this isssss a python script")
+print("this is a python script")
